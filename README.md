@@ -1,4 +1,3 @@
-cellnopt
-========
-
-Training of logic models of signalling networks using prior knowledge networks and perturbation data. 
+- For the R packages, please visit https://github.com/cellnopt/CellNOptR
+- For the Python API, please visit https://github.com/cellnopt/cellnopt
+- Visit also our website at www.cellnopt.org for general information.
