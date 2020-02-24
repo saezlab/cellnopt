@@ -1,4 +1,8 @@
-# USE [saezlab:CellNOptR](https://github.com/saezlab/CellNOptR) repo instead!
+# CellNopt package collection
+In support for the paper 
+
+Enio Gjerga, Panuwat Trairatphisan, Attila Gabor, Hermann Koch, Celine Chevalier, Francesco Ceccarelli, Aurelien Dugourd, Alexander Mitsos, Julio Saez-Rodriguez. 2020. **Converting networks to predictive logic models from perturbation signalling data with CellNOpt**, submitted to *Bioinformatics*. 
+
 
 ## Packages:
 
