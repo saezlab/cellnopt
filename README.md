@@ -16,7 +16,9 @@ Enio Gjerga, Panuwat Trairatphisan, Attila Gabor, Hermann Koch, Celine Chevalier
 
 **CellNOpt-MaBoSS:** https://github.com/saezlab/CellNOptR-MaBoSS
 
-**ShinyCNOR:** https://github.com/saezlab/ShinyCNOR
+**ShinyCNOR (Online):** https://saezlab.shinyapps.io/shinycnor/
+
+**ShinyCNOR (GitHub):** https://github.com/saezlab/ShinyCNOR
 
 ## License
 
