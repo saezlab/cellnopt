@@ -1,7 +1,7 @@
 # CellNopt package collection
 In support for the paper 
 
-Enio Gjerga, Panuwat Trairatphisan, Attila Gabor, Hermann Koch, Celine Chevalier, Francesco Ceccarelli, Aurelien Dugourd, Alexander Mitsos, Julio Saez-Rodriguez. 2020. **Converting networks to predictive logic models from perturbation signalling data with CellNOpt**, submitted to *Bioinformatics*. 
+Enio Gjerga, Panuwat Trairatphisan, Attila Gabor, Hermann Koch, Celine Chevalier, Francesco Ceccarelli, Aurelien Dugourd, Alexander Mitsos, Julio Saez-Rodriguez. 2020. **Converting networks to predictive logic models from perturbation signalling data with CellNOpt**, submitted to *Bioinformatics*. [Preprint in bioRxiv here](https://www.biorxiv.org/content/10.1101/2020.03.04.976852v1).
 
 
 ## Packages:
