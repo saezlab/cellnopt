@@ -1,7 +1,7 @@
 # CellNopt package collection
 In support for the paper 
 
-Enio Gjerga, Panuwat Trairatphisan, Attila Gabor, Hermann Koch, Celine Chevalier, Francesco Ceccarelli, Aurelien Dugourd, Alexander Mitsos, Julio Saez-Rodriguez. 2020. **Converting networks to predictive logic models from perturbation signalling data with CellNOpt**, submitted to *Bioinformatics*. [Preprint in bioRxiv here](https://www.biorxiv.org/content/10.1101/2020.03.04.976852v1).
+Enio Gjerga, Panuwat Trairatphisan, Attila Gabor, Hermann Koch, Celine Chevalier, Franceco Ceccarelli, Aurelien Dugourd, Alexander Mitsos, Julio Saez-Rodriguez, **Converting networks to predictive logic models from perturbation signalling data with CellNOpt**, *Bioinformatics*, Volume 36, Issue 16, 15 August 2020, Pages 4523–4524, https://doi.org/10.1093/bioinformatics/btaa561
 
 
 ## Packages:
@@ -19,6 +19,15 @@ Enio Gjerga, Panuwat Trairatphisan, Attila Gabor, Hermann Koch, Celine Chevalier
 **ShinyCNOR (Online):** https://saezlab.shinyapps.io/shinycnor/
 
 **ShinyCNOR (GitHub):** https://github.com/saezlab/ShinyCNOR
+
+The *CellNOoptR*, *CNORode* and the *CellNOpt-Feeder* updates have also been implemented in Bioconductor and they can be respectively found in:
+
+**CellNOptR:** https://www.bioconductor.org/packages/release/bioc/html/CellNOptR.html
+
+**CNORode:** https://www.bioconductor.org/packages/release/bioc/html/CNORode.html
+
+**CNORfeeder:** https://www.bioconductor.org/packages/release/bioc/html/CNORfeeder.html
+
 
 ## License
 
